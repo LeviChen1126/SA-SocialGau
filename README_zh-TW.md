@@ -22,10 +22,10 @@
 ## 示意圖
 - 下圖為示意圖，僅用於解釋概念，與實際研究參數與資料無關。  
 <a href="images/demo1.gif">
-    <img src="images/demo1.gif" width="520" alt="概念示意圖 - Demo 1">
+    <img src="images/demo1.gif" width="600" alt="概念示意圖 - Demo 1">
 </a>  
 <a href="images/demo2.gif">
-    <img src="images/demo2.gif" width="520" alt="概念示意圖 - Demo 2">
+    <img src="images/demo2.gif" width="600" alt="概念示意圖 - Demo 2">
 </a>
 
 ---
@@ -33,12 +33,12 @@
 ## 實驗結果
 - **效能評估：**  
 <a href="images/runtime.png">
-    <img src="images/runtime.png" width="520" alt="效能比較 - Runtime Comparison">
+    <img src="images/runtime.png" width="600" alt="效能比較 - Runtime Comparison">
 </a>  
 
 - **準確度評估：**   
 <a href="images/result.png">
-    <img src="images/result.png" width="520" alt="準確度比較 - Result Comparison">
+    <img src="images/result.png" width="600" alt="準確度比較 - Result Comparison">
 </a>  
 
 *參考文獻：
