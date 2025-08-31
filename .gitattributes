@@ -1,0 +1,42 @@
+# --------------------------------------------------------
+# Git Attributes for SA-SocialGau
+# --------------------------------------------------------
+
+# Default: normalize all text files to LF line endings
+* text=auto eol=lf
+
+# C/C++ source code: enforce LF
+*.cpp text eol=lf
+*.hpp text eol=lf
+*.h   text eol=lf
+
+# JSON / Markdown / CMake files: enforce LF
+*.json text eol=lf
+*.md   text eol=lf
+CMakeLists.txt text eol=lf
+
+# Config / test files: enforce LF
+*.yml  text eol=lf
+*.yaml text eol=lf
+*.txt  text eol=lf
+
+# Binary files: mark as binary to avoid line-ending conversions
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.exe binary
+*.dll binary
+*.so  binary
+*.dylib binary
+*.a   binary
+*.lib binary
+
+# GitHub Linguist adjustments:
+# Ensure language stats focus on C++, hide non-source assets
+*.cpp linguist-detectable=true
+*.hpp linguist-detectable=true
+*.h   linguist-detectable=true
+*.json linguist-detectable=false
+*.gif  linguist-detectable=false
+*.png  linguist-detectable=false
