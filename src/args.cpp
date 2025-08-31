@@ -4,5 +4,5 @@
 
 std::vector<std::string> Args::getDatasetPaths(int pred_len){
     (void)pred_len;
-    return { "sample_data/eth_8.json" };
+    return { "datasets/eth_8.json" };
 }
