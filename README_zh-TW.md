@@ -79,7 +79,7 @@
     rm -rf build
     mkdir build && cd build
     cmake .. -DCMAKE_BUILD_TYPE=Release
-    cmake --build .
+    cmake --build . && cd ..
     ```
     編譯完成後，會產生執行檔 `build/SA-SocialGau`
 
