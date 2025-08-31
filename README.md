@@ -80,7 +80,7 @@ The project includes data I/O, a basic predictor, and unit tests, making it easy
     rm -rf build
     mkdir build && cd build
     cmake .. -DCMAKE_BUILD_TYPE=Release
-    cmake --build .
+    cmake --build . && cd ..
     ```
     After compilation, the executable `build/SA-SocialGau` will be generated.
 
