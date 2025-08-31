@@ -23,10 +23,10 @@ The project includes data I/O, a basic predictor, and unit tests, making it easy
 ## Illustrations
 - The following figures are **conceptual illustrations only**, not based on actual research parameters or data.  
 <a href="images/demo1.gif">
-    <img src="images/demo1.gif" width="520" alt="Conceptual Illustration - Demo 1">
+    <img src="images/demo1.gif" width="600" alt="Conceptual Illustration - Demo 1">
 </a>  
 <a href="images/demo2.gif">
-    <img src="images/demo2.gif" width="520" alt="Conceptual Illustration - Demo 2">
+    <img src="images/demo2.gif" width="600" alt="Conceptual Illustration - Demo 2">
 </a>
 
 ---
@@ -34,12 +34,12 @@ The project includes data I/O, a basic predictor, and unit tests, making it easy
 ## Experimental Results
 - **Runtime Performance:**  
 <a href="images/runtime.png">
-    <img src="images/runtime.png" width="520" alt="Runtime Comparison">
+    <img src="images/runtime.png" width="600" alt="Runtime Comparison">
 </a>  
 
 - **Accuracy Evaluation:**  
 <a href="images/result.png">
-    <img src="images/result.png" width="520" alt="Accuracy Comparison">
+    <img src="images/result.png" width="600" alt="Accuracy Comparison">
 </a>  
 
 *References:
