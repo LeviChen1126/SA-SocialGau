@@ -30,5 +30,5 @@ void loadJson(const std::string& path, std::vector<StepData>& dataset) {
 }
 
 std::string get_default_dataset_path() {
-    return "sample_data/eth_8.json";
+    return "datasets/eth.json";
 }
